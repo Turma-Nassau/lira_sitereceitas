@@ -54,23 +54,22 @@ Back-end: Node, Express, PostgreSQL
   - Pesquisar
     - Pesqisar as receitas pelo o nome,categoria e dificuldade
 
-    ```s
-    Pesquisar {
+```s
+     Pesquisar {
         categoria:"categoria da receita"
         dificuldade:"classificacao de nivel de dificuldade"
         nome_receita:"achar a receita atravez do nome dela"
         
     }
 ```
-  - Conta 
-    - Acesso a conta para salva receitas e compartilha-las
+   - Conta 
+     - Acesso a conta para salva receitas e compartilha-las
 
-    ```s
-    Conta {
+```s
+     Conta {
         id_user:1
         receitas_salvas:"olha as receitas salvas"
-        adicionar_receitas:"adicionar e compartilhar receitas com outros usuarios"
-        
+        adicionar_receitas:"adicionar e compartilhar receitas com outros usuarios     
     }
 ```       
         

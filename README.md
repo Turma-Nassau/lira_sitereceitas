@@ -13,7 +13,7 @@ procurar receitas com base em diferentes categorias, como café da manhã, almo�
 Front-end: React, TailwindCSS
 
 
-Back-end: Node, Express, PostgreSQL
+Back-end: Node, Express, MyQL
 
 ## Estrutura de Dados
 

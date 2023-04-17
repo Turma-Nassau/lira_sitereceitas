@@ -1,0 +1,11 @@
+{
+  "name": "meu-servidor",
+  "version": "1.0.0",
+  "description": "Servidor Node.js para o meu site de receitas",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql2": "^2.3.0"
+  }
+}
